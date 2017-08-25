@@ -10,21 +10,21 @@ function logShout(string) {
   console.log (string.toUpperCase)
 }
 
-var uppercase = 'HELLO!'
-var lowercase = 'hello!'
-var mixedCase = 'Hi there!'
-
 function logWhisper(string) {
   console.log (spy.toLowerCase)
 }
 
+var uppercase = 'HELLO!'
+var lowercase = 'hello!'
+var mixedCase = 'Hi there!'
+
 function sayHiToGrandma(string) {
-  if  
-  
+  if
+
   else if {
-    
+
   }
   else {
-    
+
   }
 }
